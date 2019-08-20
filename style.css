@@ -58,7 +58,7 @@ time {
 
 a[href] {
   color: #0099ef;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 del {
@@ -221,4 +221,3 @@ footer {
 .italic {
   font-style: italic;
 }
-a {text-decoration: none}

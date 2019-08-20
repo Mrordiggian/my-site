@@ -7,7 +7,7 @@ body {
 
   background: #ffffff url("img/bg-page.png") no-repeat top center;
 }
-a {text-decoration: none}
+a {text-decoration: normal}
 h1 {
   font-size: 24px;
   line-height: normal;

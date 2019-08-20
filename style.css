@@ -7,7 +7,7 @@ body {
 
   background: #ffffff url("img/bg-page.png") no-repeat top center;
 }
-a {text-decoration: normal}
+
 h1 {
   font-size: 24px;
   line-height: normal;
@@ -221,3 +221,4 @@ footer {
 .italic {
   font-style: italic;
 }
+a {text-decoration: none}
